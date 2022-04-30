@@ -1,5 +1,5 @@
-# 👋 Hello there, I am Anay Sharma
----
+## 👋 Hello there, I am Anay Sharma
+
 * 🔭 __I'm currently working on some Web Projects__ 💻
 
 * 🪴 __I'm currently learning React.js___ ⚛️
