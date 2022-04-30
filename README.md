@@ -10,6 +10,6 @@
 
 * 📫 __I can be reached on 
        - [Linkedin](https://www.linkedin.com/in/anay-sharma-b3785321a/)
-       - anaysharma8791@gmail.com 📩
+       or email me on anaysharma8791@gmail.com 📩
 
 * ⚡ __Fun fact : I'm Indian 🇮🇳
