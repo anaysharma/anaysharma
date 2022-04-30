@@ -1,9 +1,15 @@
-- Hi, I’m Anay Sharma
-- I’m interested in contributing open source projects
-- I’m currently learning c++
-- I can be reached on anaysharma8791@gmail.com
+# 👋 Hello there, I am Anay Sharma
+---
+* 🔭 __I'm currently working on some Web Projects 💻
 
-<!---
-anaysharma/anaysharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 🪴 __I'm currently learning React.js ⚛️
+
+* 🤝 __I'm looking to collaborate on [FreeCodeCamp](https://www.freecodecamp.org/Anay)
+
+* 🤔 __I'm looking for help with TensorFlow
+
+* 📫 __I can be reached on 
+       - [Linkedin](https://www.linkedin.com/in/anay-sharma-b3785321a/)
+       - anaysharma8791@gmail.com 📩
+
+* ⚡ __Fun fact : I'm Indian 🇮🇳
