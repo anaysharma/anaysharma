@@ -4,7 +4,7 @@
 
 * 🪴 __I'm currently learning React.js___ ⚛️
 
-* 🤝 __I'm looking to collaborate on [FreeCodeCamp](https://www.freecodecamp.org/Anay)__
+* 🤝 __I'm looking to collaborate on [TheOdinProject](https://www.theodinproject.com/dashboard)__
 
 * 🤔 __I'm looking for help with TensorFlow__
 
