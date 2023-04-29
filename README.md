@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaysharma&label=Profile%20views&color=0e75b6&style=flat" alt="anaysharma" /> </p>
 
-- 🔭 I’m currently working on **some Web Projects.**
+- 🔭 I’m currently working on **leveling up my development skills.**
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **Next.Js**
 
-- 👯 I’m looking to collaborate on [The Oding Project](https://www.theodinproject.com/)
+- 👯 I’m looking to collaborate on [The Odin Project](https://www.theodinproject.com/)
 
-- 🤝 I’m looking for help with **WebAssembly**
+- 🤝 I’m looking for help with **WebGL**
 
 - 💬 Ask me about **react, javascript, css.**
 
