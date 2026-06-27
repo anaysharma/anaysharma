@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Anay Sharma</h1>
 
 <p align="center">
@@ -53,4 +53,4 @@ Building low-latency systems, market infrastructure, and scalable backend servic
     src="https://raw.githubusercontent.com/anaysharma/github-readme/main/output/contribs-light.svg"
   />
 </picture>
-```
+
