@@ -18,6 +18,7 @@
 <a href="https://www.hackerrank.com/anaysharma8791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anaysharma8791" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anaysharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anaysharma" height="30" width="40" /></a>
 </p>
+<br></br>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
