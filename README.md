@@ -7,7 +7,7 @@
 <p align="left"><a align="center" href="mailto: anaysharma8791@gmail.com">anaysharma8791@gmail.com</a></p>
 
 
-<p align="right">
+<p align="lefy">
 <a href="https://codepen.io/@anaysharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@anaysharma" height="30" width="40" /></a>
 <a href="https://twitter.com/@anaysharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anaysharma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anay-sharma-b3785321a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anay-sharma-b3785321a" height="30" width="40" /></a>
