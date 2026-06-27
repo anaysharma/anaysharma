@@ -1,62 +1,24 @@
+<h1 align="center">Hi, I'm Anay Sharma</h1>
+<h3 align="center">potato in programming</h3>
 
-<h1 align="center">Anay Sharma</h1>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anaysharma" alt="anaysharma" /></a> </p> -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anaysharma&label=Profile%20views&color=0e75b6&style=flat" alt="anaysharma" /> </p>
 
+<p align="center"><a align="center" href="mailto: anaysharma8791@gmail.com">anaysharma8791@gmail.com</a></p>
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-Backend Engineer • C++ • Python • Trading Systems
+<a href="https://codepen.io/@anaysharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@anaysharma" height="30" width="40" /></a>
+<a href="https://twitter.com/@anaysharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anaysharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anay-sharma-b3785321a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anay-sharma-b3785321a" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/anay-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anay-sharma" height="30" width="40" /></a>
+<a href="https://codesandbox.com/anaysharma8791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="anaysharma8791" height="30" width="40" /></a>
+<a href="https://dribbble.com/anaysharma8791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="anaysharma8791" height="30" width="40" /></a>
+<a href="https://medium.com/@anaysharma8791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anaysharma8791" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anaysharma8791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anaysharma8791" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anaysharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anaysharma" height="30" width="40" /></a>
 </p>
-
-<p align="center">
-Building low-latency systems, market infrastructure, and scalable backend services.
-</p>
-
-<p align="center">
-<a href="mailto:anaysharma8791@gmail.com">
-<img src="https://img.shields.io/badge/Email-anaysharma8791%40gmail.com-blue?style=flat-square&logo=gmail" />
-</a>
-<a href="https://komarev.com/ghpvc/?username=anaysharma">
-<img src="https://komarev.com/ghpvc/?username=anaysharma&style=flat-square&color=0e75b6" />
-</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anaysharma" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="34" />
-  </a>
-  <a href="https://linkedin.com/in/anay-sharma-b3785321a" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="34" />
-  </a>
-  <a href="mailto:anaysharma8791@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="34" />
-  </a>
-  <a href="https://leetcode.com/anaysharma" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="34" />
-  </a>
-  <a href="https://stackoverflow.com/users/anay-sharma" target="_blank">
-    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="34" />
-  </a>
-  <a href="https://www.hackerrank.com/anaysharma8791" target="_blank">
-    <img src="https://cdn.simpleicons.org/hackerrank/2EC866" height="34" />
-  </a>
-  <a href="https://medium.com/@anaysharma8791" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium/000000" height="34" />
-  </a>
-  <a href="https://codepen.io/anaysharma" target="_blank">
-    <img src="https://cdn.simpleicons.org/codepen/000000" height="34" />
-  </a>
-</p>
-
----
-
-### About
-
-- ⚡ Backend Engineer focused on **C++** and **Python**
-- 📈 Building trading systems and market infrastructure
-- 🗄️ PostgreSQL • ClickHouse • Redis
-- 🚀 FastAPI • Django • Node.js
-- 🐧 Linux enthusiast
-
----
-
+<hr>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -67,4 +29,3 @@ Building low-latency systems, market infrastructure, and scalable backend servic
     src="https://raw.githubusercontent.com/anaysharma/github-readme/main/output/contribs-light.svg"
   />
 </picture>
-
