@@ -8,7 +8,7 @@
 
 ### about me
 
-```txt
+```js
 const anay = {
     role: "Full-Stack Developer",
     stack: ["TypeScript", "Python", "C++"],
