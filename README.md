@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/anaysharma/github-readme/main/output/banner.svg" width="100%" alt="Anay Sharma — Full-Stack Developer" />
+<img src="https://raw.githubusercontent.com/anaysharma/anaysharma/refs/heads/main/output/banner.svg" width="100%" alt="Anay Sharma — Full-Stack Developer" />
 
 </div>
 
