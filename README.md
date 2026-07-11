@@ -15,15 +15,9 @@ const anay = {
 };
 ```
 
-<br/>
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/anaysharma/anaysharma/refs/heads/main/output/tech-stack.svg" alt="Tech Stack" width="100%" />
 </div>
-
-
-<br />
 
 ---
 
@@ -59,7 +53,6 @@ const anay = {
 </picture>
 
 ---
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=anaysharma&label=Profile%20views&color=0e75b6&style=flat" alt="anaysharma" />
 
