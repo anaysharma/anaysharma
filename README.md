@@ -22,7 +22,8 @@ const anay = {
   <img src="https://raw.githubusercontent.com/anaysharma/anaysharma/refs/heads/main/output/tech-stack.svg" alt="Tech Stack" width="100%" />
 </div>
 
-<br/>
+
+<br />
 
 ---
 
@@ -39,6 +40,7 @@ const anay = {
 <a href="https://www.leetcode.com/anaysharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anaysharma" height="30" width="40" /></a>
 
 </div>
+
 ---
 
 <br/>
@@ -56,7 +58,8 @@ const anay = {
   />
 </picture>
 
-<br/><br/>
+---
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=anaysharma&label=Profile%20views&color=0e75b6&style=flat" alt="anaysharma" />
 
