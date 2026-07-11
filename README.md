@@ -24,6 +24,8 @@ const anay = {
 
 <br/>
 
+---
+
 <div align="center">
 
 <a href="https://codepen.io/@anaysharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@anaysharma" height="30" width="40" /></a>
@@ -37,6 +39,7 @@ const anay = {
 <a href="https://www.leetcode.com/anaysharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anaysharma" height="30" width="40" /></a>
 
 </div>
+---
 
 <br/>
 
