@@ -6,8 +6,6 @@
 
 <br/>
 
-### about me
-
 ```js
 const anay = {
     role: "Full-Stack Developer",
@@ -19,7 +17,6 @@ const anay = {
 
 <br/>
 
-### tech stack
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/anaysharma/anaysharma/refs/heads/main/output/tech-stack.svg" alt="Tech Stack" width="100%" />
@@ -28,8 +25,6 @@ const anay = {
 <br/>
 
 <div align="center">
-
-### connect
 
 <a href="https://codepen.io/@anaysharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@anaysharma" height="30" width="40" /></a>
 <a href="https://twitter.com/@anaysharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anaysharma" height="30" width="40" /></a>
@@ -46,8 +41,6 @@ const anay = {
 <br/>
 
 <div align="center">
-
-### contributions
 
 <picture>
   <source
